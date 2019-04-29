@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React based Rock Paper Scissors
+
+This project is meant as a way to learn react. There will be a running version on the [github project page](https://mvmaasakkers.github.io/react-rock-paper-scissors/).
+
+
 
 ## Available Scripts
 
